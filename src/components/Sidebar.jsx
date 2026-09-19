@@ -39,26 +39,26 @@ export default function Sidebar() {
       icon: Brain,
       path: "/analyze",
     },
-    {
-      title: "Analytics",
-      icon: BarChart3,
-      path: "/analytics",
-    },
-    {
-      title: "Predictions",
-      icon: Target,
-      path: "/predictions",
-    },
-    {
-      title: "Final Paper",
-      icon: FileCheck,
-      path: "/final-paper",
-    },
-    {
-      title: "Answer Book",
-      icon: BookMarked,
-      path: "/answer-book",
-    },
+    // {
+    //   title: "Analytics",
+    //   icon: BarChart3,
+    //   path: "/analytics",
+    // },
+    // {
+    //   title: "Predictions",
+    //   icon: Target,
+    //   path: "/predictions",
+    // },
+    // {
+    //   title: "Final Paper",
+    //   icon: FileCheck,
+    //   path: "/final-paper",
+    // },
+    // {
+    //   title: "Answer Book",
+    //   icon: BookMarked,
+    //   path: "/answer-book",
+    // },
   ];
 
   return (

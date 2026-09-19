@@ -270,7 +270,7 @@ export default function Subjects() {
                         Final Paper
                       </Link>
 
-                      <Link
+                      {/* <Link
                         to={`/answer-book/${subject.id}`}
                         onClick={() =>
                           selectSubject(
@@ -280,7 +280,7 @@ export default function Subjects() {
                         className="bg-indigo-600 text-white px-3 py-1 rounded"
                       >
                         Answer Book
-                      </Link>
+                      </Link> */}
 
                       <button
                         onClick={() =>
